@@ -17,6 +17,8 @@ import android.widget.EditText;
  *
  */
 
+//1차 변화
+
 public class MainActivity extends AppCompatActivity {
 
     EditText input01;
