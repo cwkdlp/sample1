@@ -18,6 +18,7 @@ import android.widget.EditText;
  */
 
 //1차 변화
+    //github 1차
 
 public class MainActivity extends AppCompatActivity {
 
